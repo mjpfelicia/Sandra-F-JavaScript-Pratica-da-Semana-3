@@ -3,9 +3,9 @@
 # Sandra-F-JavaScript-Pratica-da-Semana-3
 # https://github.com/mjpfelicia
 
-<img src="./img/portifolio.png" alt="Site em Telas" />
-
                  Welcome! 👋
+                 
+![Alt text](image.png)
 
 ## Índice
 
